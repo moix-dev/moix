@@ -11,11 +11,11 @@ blockquote {
   .c1 {
     color: gray;
   }
-  .o {
-    color: green;
+  .o, .p {
+    color: gray;
   }
   .p {
-    color: red;
+    font-style: italic;
   }
   pre {
     padding: 1rem;
