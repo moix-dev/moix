@@ -9,7 +9,13 @@ blockquote {
 .highlighter-rouge {
   background-color: #eee;
   .c1 {
-    color: #777;
+    color: gray;
+  }
+  .o {
+    color: green;
+  }
+  .p {
+    color: red;
   }
   pre {
     padding: 1rem;
