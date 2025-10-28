@@ -106,5 +106,3 @@ La equis es una representación del contenido, por ejemplo el área dentro del p
 # R. Referencias
 
 * R.1.
-
-<script src="./js/titles.js"></script>

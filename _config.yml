@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+title: "MOIX, lenguaje para la ejemplificación de conceptos computaciones y contables."
+scripts:
+  - /js/titles.js
+
