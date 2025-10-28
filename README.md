@@ -32,9 +32,9 @@ El concepto de Observador, parte del experimento de la doble rendija del campo d
 
 El concepto de Espacio, esta divido en dos:
 
-a. Espacio observado. Se establece el método de la linterna para observar un fenómeno. El método consiste: «En un cuarto muy grande ausente de luz el observador establece un punto de luz dirigida hacia donde quiere observar, luego con base en su perspectiva registra lo observado».
+* a. Espacio observado. Se establece el método de la linterna para observar un fenómeno. El método consiste: «En un cuarto muy grande ausente de luz el observador establece un punto de luz dirigida hacia donde quiere observar, luego con base en su perspectiva registra lo observado».
 
-b. Espacio MOIX. Se considera una tabla rasa infinita donde con los conceptos previos se marca la perspectiva de un fenómeno observado.
+* b. Espacio MOIX. Se considera una tabla rasa infinita donde con los conceptos previos se marca la perspectiva de un fenómeno observado.
 
 ## 2.3. Categoría
 
@@ -50,15 +50,15 @@ La conducta dentro de MOIX de los morfismos son los mismos que tuberías, por ta
 
 El dibujo de la flecha tiene las siguientes partes:
 
-a. Cola (origen o punto de partida). Es el punto de contacto con el perímetro del objeto inicial.
+* a. Cola (origen o punto de partida). Es el punto de contacto con el perímetro del objeto inicial.
 
-b. Cuerpo (trayectoria). Es el segmento desde el origen hasta el final. La marca visual es una línea simple (--) entre objetos y línea doble (==) entre categorías.
+* b. Cuerpo (trayectoria). Es el segmento desde el origen hasta el final. La marca visual es una línea simple (`--`) entre objetos y línea doble (`==`) entre categorías.
 
-c. Cabeza (extremo o punto final). Es el punto de contacto con el perímetro del objeto final.
+* c. Cabeza (extremo o punto final). Es el punto de contacto con el perímetro del objeto final.
 
-d. Dirección. Es el movimiento que da razón de existir a la flecha y puede ser calmada (-), en movimiento (>) e integrales (>>...).
+* d. Dirección. Es el movimiento que da razón de existir a la flecha y puede ser calmada (`-`), en movimiento (`>`) e integrales (`>>...`).
 
-Finalmente, las flechas permitidas son: ---, <--, -->, <-->, ===, <==, ==> y <==>.
+Finalmente, las flechas permitidas son: `---`, `<--`, `-->`, `<-->`, `===`, `<==`, `==>` y `<==>`.
 
 ## 2.5. Objeto
 
