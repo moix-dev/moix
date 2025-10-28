@@ -19,8 +19,9 @@ blockquote {
   color: #eee;
   right: 2rem;
   bottom: 2rem;
-  padding: 0.5rem;
-  position: absolute;
+  position: fixed;
+  border-radius: 4px;
+  padding: 0.2rem 0.5rem;
   background-color: #222;
   &::after {
     content: '^';
