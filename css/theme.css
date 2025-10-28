@@ -1,0 +1,10 @@
+a {
+  color: inherit;
+}
+.highlighter-rouge {
+  padding: 1rem;
+  background-color: #eee;
+  .cl {
+    color: #777;
+  }
+}

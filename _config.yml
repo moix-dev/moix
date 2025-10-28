@@ -1,4 +1,6 @@
-title: "MOIX, lenguaje para la ejemplificación de conceptos computaciones y contables."
+title: "MOIX"
+styles:
+  - /css/theme.css
 scripts:
   - /js/titles.js
 
