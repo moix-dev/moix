@@ -1,4 +1,6 @@
-# MOIX, lenguaje para la ejemplificación de conceptos computaciones y contables
+# Lenguaje MOIX
+
+> MOIX, lenguaje para la ejemplificación de conceptos computaciones y contables
 
 ```haskell
 moix.cat -- Categoría principal
