@@ -3,7 +3,7 @@
 > MOIX, lenguaje para la ejemplificación de conceptos computacionales y contables
 
 ```haskell
-moix.cat -- Categoría principal
+cat moix -- Categoría principal
   M -- Morfismo
   O -- Objeto
   I -- Identidad
@@ -83,7 +83,7 @@ El objeto es una entidad producto de una observación, en forma conceptual es un
 El objeto existe por sí mismo y desde su aparición en el espacio forma una categoría y también tiene un morfismo con dirección así mismo.
 
 ```haskell
-main.cat -- categoría main
+cat main -- categoría main
   id A: A -> A -- es igual a la unidad
 ```
 
