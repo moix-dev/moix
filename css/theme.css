@@ -1,35 +1,36 @@
 a {
-  color: inherit;
-  text-decoration: none;
+	color: inherit;
+	text-decoration: none;
 }
 blockquote {
-  padding-left: 1rem;
-  border-left: 1rem solid #bbb;
+	padding-left: 1rem;
+	border-left: 1rem solid #bbb;
 }
 .highlighter-rouge {
-  background-color: #eee;
-  .c1 {
-    color: gray;
-  }
-  .o, .p {
-    color: gray;
-  }
-  .p {
-    font-style: italic;
-  }
-  pre {
-    padding: 1rem;
-  }
+	background-color: #eee;
+	.c1 {
+		color: gray;
+	}
+	.o,
+	.p {
+		color: gray;
+	}
+	.p {
+		font-style: italic;
+	}
+	pre {
+		padding: 1rem;
+	}
 }
-.arrow {
-  color: #eee;
-  right: 2rem;
-  bottom: 2rem;
-  position: fixed;
-  border-radius: 4px;
-  padding: 0.2rem 0.5rem;
-  background-color: #222;
-  &::after {
-    content: '^';
-  }
+#toup {
+	color: #eee;
+	right: 2rem;
+	bottom: 2rem;
+	position: fixed;
+	border-radius: 4px;
+	padding: 0.2rem 0.5rem;
+	background-color: #222;
+	&::after {
+		content: "^";
+	}
 }

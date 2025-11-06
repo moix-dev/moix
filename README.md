@@ -72,9 +72,9 @@ El dibujo de la flecha tiene las siguientes partes:
 
 * c. Cabeza (extremo o punto final). Es el punto de contacto con el perímetro del objeto final.
 
-* d. Dirección. Es el movimiento que da razón de existir a la flecha y puede ser calmada (`-`), en movimiento (`>`) e integrales (`>>...`).
+* d. Dirección. Es el movimiento que da razón de existir a la flecha y puede ser calmada (`-`), en movimiento (`>`) e integrales (`>>`).
 
-Finalmente, las flechas permitidas son: `---`, `<--`, `-->`, `<-->`, `===`, `<==`, `==>` y `<==>`.
+Finalmente, las flechas permitidas se componen de tres partes para ser llamadas morfismos.
 
 ## 3.5. Objeto
 
